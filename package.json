@@ -1,0 +1,29 @@
+{
+  "name": "beep-whatsapp-alerts",
+  "version": "1.0.0",
+  "description": "Send whatsapp message to matching riders when driver creates ride offer and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/himanshubhaisare/beep-whatsapp-alerts.git"
+  },
+  "keywords": [
+    "Beep",
+    "ridebeep.com",
+    "carpool",
+    "mumbai",
+    "carpool",
+    "rider",
+    "driver",
+    "rideshare"
+  ],
+  "author": "gurugulaab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshubhaisare/beep-whatsapp-alerts/issues"
+  },
+  "homepage": "https://github.com/himanshubhaisare/beep-whatsapp-alerts#readme"
+}
